@@ -39,7 +39,7 @@
 
                                 /* BODY */
                                 
-body { background-color:#fffaf4; color:#4d4d4d; font-family: 'Kosugi Maru', sans-serif, sans-serif; font-size:10px; text-transform:lowercase; font-weight:lighter; letter-spacing:1px; line-height:18px; text-align:justify; background-attachment:fixed; background-position:center; overflow:hidden; }
+body { background-color:#fffbf7; color:#4d4d4d; font-family: 'Kosugi Maru', sans-serif, sans-serif; font-size:10px; text-transform:lowercase; font-weight:lighter; letter-spacing:1px; line-height:18px; text-align:justify; background-attachment:fixed; background-position:center; overflow:hidden; }
 
 a { text-decoration:none; color:#bfd5f1; transition: all 0.6s ease-in-out; }
  
